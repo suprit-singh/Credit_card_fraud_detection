@@ -1,0 +1,21 @@
+```gitignore
+# Node modules (React)
+frontend/node_modules/
+frontend/build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+*.env
